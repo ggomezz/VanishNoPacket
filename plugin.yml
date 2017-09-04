@@ -8,6 +8,7 @@ authors:
 description: "Special plugin that allow to Vanish player without using Effects"
 softdepend:
   - EssentialsPE
+
 permissions:
   vanish:
     default: op
