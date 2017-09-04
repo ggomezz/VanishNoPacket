@@ -2,7 +2,7 @@ name: VanishNP
 main: VanishNP\Loader
 version: 1.1.0
 api: 3.0.0-ALPHA7
-authors:
+author:
  - iksaku
  - jasonwynn10
 description: "Special plugin that allow to Vanish player without using Effects"
